@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\bin\Debug\net6.0\BookWormHub.Data.deps.json
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\bin\Debug\net6.0\BookWormHub.Data.dll
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\bin\Debug\net6.0\BookWormHub.Data.pdb
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.dll
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\refint\BookWormHub.Data.dll
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\BookWormHub.Data.pdb
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.Data\obj\Debug\net6.0\ref\BookWormHub.Data.dll

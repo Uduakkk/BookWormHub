@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\bin\Debug\net6.0\BookWormHub.BusinessLogic.deps.json
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\bin\Debug\net6.0\BookWormHub.BusinessLogic.dll
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\bin\Debug\net6.0\BookWormHub.BusinessLogic.pdb
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\BookWormHub.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\BookWormHub.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\BookWormHub.BusinessLogic.AssemblyInfo.cs
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\BookWormHub.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\BookWormHub.BusinessLogic.dll
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\refint\BookWormHub.BusinessLogic.dll
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\BookWormHub.BusinessLogic.pdb
+C:\Users\PC\Desktop\BookWormHUb Project\BookWormHub\BookWormHub\BookWormHub.BusinessLogic\obj\Debug\net6.0\ref\BookWormHub.BusinessLogic.dll

@@ -1,5 +1,14 @@
+using BookWormHub.Data.EntitiesData;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+      Migration => Migration.MigrationsAssembly("BookWormHub"));
+});
 // Add services to the container.
 
 builder.Services.AddControllers();
